@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Loren</title>
+  
+  <subtitle>Loren 个人博客</subtitle>
+  <link href="http://hahloren.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://hahloren.github.io/"/>
+  <updated>2021-02-09T10:48:11.003Z</updated>
+  <id>http://hahloren.github.io/</id>
+  
+  <author>
+    <name>Loren</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 介绍</title>
+    <link href="http://hahloren.github.io/2021/02/09/hexo-jie-shao/"/>
+    <id>http://hahloren.github.io/2021/02/09/hexo-jie-shao/</id>
+    <published>2021-02-09T10:48:00.000Z</published>
+    <updated>2021-02-09T10:48:11.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;主题-hexo-theme-matery-说明&quot;&gt;&lt;a href=&quot;#主题-hexo-theme-matery-说明&quot; class=&quot;headerlink&quot; title=&quot;主题 hexo-theme-matery 说明&quot;&gt;&lt;/a&gt;主题</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="http://hahloren.github.io/categories/hexo/"/>
+    
+    
+    <category term="Blog" scheme="http://hahloren.github.io/tags/Blog/"/>
+    
+    <category term="Markdown" scheme="http://hahloren.github.io/tags/Markdown/"/>
+    
+    <category term="Docs" scheme="http://hahloren.github.io/tags/Docs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://hahloren.github.io/2021/02/09/hello-world/"/>
+    <id>http://hahloren.github.io/2021/02/09/hello-world/</id>
+    <published>2021-02-09T09:21:46.624Z</published>
+    <updated>2021-02-09T03:02:18.575Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
