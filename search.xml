@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>1.1.1 JAVA程序运行原理分析</title>
+      <link href="2021/05/05/1-1-1-java-cheng-xu-yun-xing-yuan-li-fen-xi/"/>
+      <url>2021/05/05/1-1-1-java-cheng-xu-yun-xing-yuan-li-fen-xi/</url>
+      
+        <content type="html"><![CDATA[<p>目录：<br>[TOC]</p><h2 id="class文件内容："><a href="#class文件内容：" class="headerlink" title="class文件内容："></a>class文件内容：</h2><ul><li><strong>class文件</strong>：包含java程序执行的字节码；</li><li>数据严格按照格式紧凑排列在class文件中的二进制流，中间无任何分隔符；</li><li>文件开头有一个<strong>0xcafebabe</strong>(16进制)的特殊标志。<h2 id="test-2"><a href="#test-2" class="headerlink" title="test 2"></a>test 2</h2><img src="2021-05-05-1-1-1-JAVA%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/1.png"></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java高级开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Docs </tag>
+            
+            <tag> Java </tag>
+            
+            <tag> Chapter1 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo 介绍</title>
       <link href="2021/02/09/hexo-jie-shao/"/>
       <url>2021/02/09/hexo-jie-shao/</url>
